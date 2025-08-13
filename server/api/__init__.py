@@ -1,0 +1,1 @@
+from server.api.v1 import api_router as api_v1_router  # noqa: F401

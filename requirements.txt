@@ -1,6 +1,8 @@
 fastapi==0.116.1
 pydantic==2.11.7
 uvicorn[standard]==0.35.0
+langgraph==0.6.4
 langchain==0.3.27
+langchain-mcp-adapters==0.1.9
 langchain-google-genai==2.1.8
 python-dotenv>=1.1.1
